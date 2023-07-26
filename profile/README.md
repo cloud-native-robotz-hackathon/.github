@@ -1,2 +1,2 @@
-## Hello to Cloud Native Robotz Hackathon  👋
+## Hello to Cloud Native 🤖 Hackathon  👋
 
